@@ -22,8 +22,8 @@
 
 <hr>
 
-# Credits:
-* Gnana Prakash Punnavajhala - [Github](https://github.com/GnanaPrakashSG2004)
-* Losetti Mourya - [Github](https://github.com/losettimourya)
-* Rohit Gowlapalli - [Github](https://github.com/ROHIT32767)
-* Myself :) - [Github](https://github.com/Abhinavreddy-B)
+# Contributors
+* [Rohit Gowlapalli](https://github.com/ROHIT32767)
+* [Gnana Prakash Punnavajhala](https://github.com/GnanaPrakashSG2004)
+* [Abhinav Reddy Boddu](https://github.com/Abhinavreddy-B)
+* [Losetti Mourya](https://github.com/losettimourya)
